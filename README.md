@@ -274,7 +274,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ### Navigation apps
 - [HERE WeGo Maps & Navigation](https://wego.here.com) 🇳🇱
 - [komoot](https://www.komoot.com) 🇩🇪
-- [Magic Earth](https://www.magicearth.com) 🇭🇺
+- [Magic Earth](https://www.magicearth.com) 🇳🇱
 - [Mapy.cz](https://www.mapy.cz) 🇨🇿
 - [OsmAnd](https://osmand.net) 🇨🇿
 - [Organic Maps](https://organicmaps.app) 🇪🇪
